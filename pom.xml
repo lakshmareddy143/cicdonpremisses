@@ -26,7 +26,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<armDeployment>
-      <muleVersion></muleVersion>
+      <muleVersion>4.2.2</muleVersion>
       <uri>https://anypoint.mulesoft.com</uri>
        <target>servenamee</target>
       <targetType>server</targetType>
