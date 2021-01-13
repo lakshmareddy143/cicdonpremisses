@@ -1,4 +1,4 @@
-pipeline something
+pipeline something missing
  {
   agent any
   stages{
